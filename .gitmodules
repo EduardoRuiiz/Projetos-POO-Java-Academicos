@@ -1,0 +1,9 @@
+[submodule "ProjetoHospital"]
+	path = ProjetoHospital
+	url = git@github.com:EduardoRuiiz/ProjetoHospital.git
+[submodule "ProjetoAcougue"]
+	path = ProjetoAcougue
+	url = git@github.com:EduardoRuiiz/ProjetoAcougue.git
+[submodule "ProjetoSI2"]
+	path = ProjetoSI2
+	url = git@github.com:EduardoRuiiz/ProjetoSI2.git
