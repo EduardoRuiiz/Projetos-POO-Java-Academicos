@@ -1,2 +1,2 @@
-# Projetos-POO-Java-Acad-micos
+# Projetos-POO-Java-Academicos
 Todos meus projetos em Java POO acadêmicos
